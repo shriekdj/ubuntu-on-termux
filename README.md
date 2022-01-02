@@ -7,7 +7,7 @@ At Here I Will Gonna Show How You can install ubuntu under your termux emulator 
 ## Manual Installation
 - Update and Upgrade the Termux :- ```apt-get update && apt-get upgrade -y```.
 - Install The proot-distro package :- ```apt-get install proot-distro -y```.
-> `proot-distro` is the name of the package and `distro` word is **mandatory**.
+> **proot-distro** is the name of the package and **distro** word is **mandatory**.
 - Now Install Your Ubuntu **Size Obvously Very big :- ```proot-distro install ubuntu``` type y and it will install ubuntu in your termux.
 - For Starting the Ubuntu Type :- ```proot-distro login ubuntu```.
 - For Stopping the Ubuntu just type :- ```exit```.
