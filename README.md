@@ -1,5 +1,5 @@
 # ubuntu-on-termux
-run this bash script to install the ubuntu in termux **Be Aware of that The Software Size Will Be Very Big**
+run this bash script to install the ubuntu in termux **Be Aware of that The Software Size Will Be Too much Bigger in Size**
 
 At Here I Will Gonna Show How You can install ubuntu under your termux emulator **without rooting** your device.
 
