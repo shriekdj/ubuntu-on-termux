@@ -29,3 +29,4 @@ At Here I Will Gonna Show How You can install ubuntu under your termux emulator 
 
 
 ## Verticle Screenshot
+![Screenshot_20240605-193016](https://github.com/shriekdj/ubuntu-on-termux/assets/35664193/d8f2ef5e-8b04-4f36-ae00-3073aaf8d082)
