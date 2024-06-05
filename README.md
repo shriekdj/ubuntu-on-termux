@@ -3,6 +3,12 @@ run this bash script to install the ubuntu in termux **Be Aware of that The Soft
 
 At Here I Will Gonna Show How You can install ubuntu under your termux emulator **without rooting** your device.
 
+## Direct Installation
+- Run This command `pkg install proot-distro -y` to install `proot-distro` which helps installing ubuntu
+- Run this command `proot-distro install ubuntu` to install `ubuntu`. You can also list available oses with `proot-distro list`.
+- For Starting the Ubuntu Shell run `proot-distro login ubuntu` here ubuntu is machine name
+  - By Default we are login as root
+  - It also support GUI Apps to run on android device.
 
 ## Manual Installation
 - Update and Upgrade the Termux :- ```apt-get update && apt-get upgrade -y```.
@@ -22,3 +28,4 @@ At Here I Will Gonna Show How You can install ubuntu under your termux emulator 
 - For Stopping the Ubuntu just type :- ```exit```.
 
 
+## Verticle Screenshot
